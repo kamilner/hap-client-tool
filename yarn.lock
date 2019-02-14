@@ -1055,10 +1055,11 @@ graceful-fs@^4.1.2, graceful-fs@^4.1.4:
   resolved "https://registry.yarnpkg.com/graceful-readlink/-/graceful-readlink-1.0.1.tgz#4cafad76bc62f02fa039b2f94e9a3dd3a391a725"
 
 "hap-client-tool@git+https://github.com/kamilner/hap-client-tool.git":
-  version "1.0.3"
-  resolved "git+https://github.com/kamilner/hap-client-tool.git#a53b0da425560777ebf207efc335b516b6a9cd01"
+  version "1.0.4"
+  resolved "git+https://github.com/kamilner/hap-client-tool.git#d8f6de99e435d82038bba4db26b63438b8ed32ec"
   dependencies:
     glob "^7.1.1"
+    global "^4.3.2"
     hap-client "git://github.com/kamilner/hap-client.git"
     lodash.merge "^4.6.0"
     nan "^2.6.2"
