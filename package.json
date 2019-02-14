@@ -1,6 +1,6 @@
 {
   "name": "hap-client-tool",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CLI tool for controlling HomeKit devices",
   "bin": {
     "hap-client-tool": "dist/cli.js"
