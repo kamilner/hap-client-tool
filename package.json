@@ -62,7 +62,9 @@
   "homepage": "https://github.com/forty2/hap-client-tool#readme",
   "dependencies": {
     "glob": "^7.1.1",
+    "global": "^4.3.2",
     "hap-client": "git://github.com/kamilner/hap-client.git",
+    "hap-client-tool": "git+https://github.com/kamilner/hap-client-tool.git",
     "lodash.merge": "^4.6.0",
     "nan": "^2.6.2",
     "prompt": "^1.0.0",
